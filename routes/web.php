@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\BlogController;
-use App\Http\Controllers\Admin\Mountain\MountainController;
+use App\Http\Controllers\Admin\MountainController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes

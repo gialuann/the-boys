@@ -1,3 +1,7 @@
+a{
+    text-decoration: none;
+
+}
 .img1{
     width: 47%;
     height: 40%;
@@ -18,6 +22,21 @@
     text-align: left;
     position: absolute;
     right: 2%;
-    top:45%;
+    top:47%;
     font-size: 18px;
+}
+.div1{
+    width: 47%;
+    text-align: left;
+    position: absolute;
+    right: 2%;
+    top:55%;
+    font-size: 18px;
+}
+.div2{ 
+    text-align: left;
+    position: absolute;
+    top:55%;
+    font-size: 15px;
+    right: 6%;
 }

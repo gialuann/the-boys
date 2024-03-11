@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Admin\Mountain;
+namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
