@@ -15,7 +15,7 @@
         <i class="fa-solid fa-phone"></i><a href="" style="color: #F3B63C"> +1 206-494-5799</a><br>
         <i class="fa-solid fa-print"> </i><a href="" style="color: #F3B63C">+1 206-494-5799</a><br>
         <i class="fa-solid fa-envelope"> </i><a href="" style="color: #F3B63C">+info@madisonmountaineering.com</a><br>
-        <i class="fa-solid fa-wifi"> </i><a href="" style="color: #F3B63C">+info@madisonmountaineering.com</a>
+        <i class="fa-solid fa-wifi"> </i><a href="" style="color: #F3B63C">+info@madisonmountaineering.comaaaaaaa</a>
     </div>
     
 @endsection
